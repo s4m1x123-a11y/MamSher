@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Simple Web</title>
+    <style>
+        body {
+            background-color: #f2f2f2;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            margin-top: 100px;
+        }
+
+        img {
+            width: 400px;
+            border-radius: 10px;
+        }
+
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mam Shir</h1>
+    <img src="https://i.postimg.cc/Y94Qvq9r/de5ef78a33b71c18c2bb15a4114f3801.jpg" alt="My Image">
+</body>
+</html>
